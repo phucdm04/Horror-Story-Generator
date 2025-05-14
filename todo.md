@@ -1,0 +1,2 @@
+- [ ] Analyze the dataset and build a Dataloader
+- [ ] Finetune GPT-Neo
